@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800&display=swap" rel="stylesheet">
+<title>Zeo Auto</title>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+ 
+
+
+
+</head>
+<body>
+
+<!-- header -->
+
+<section class="hero-header">
+
+
+
+<div class="container ">
+  
+
+    <div class="col-md-4 col-xs-7 pad-zero"><a href="#"><img src="images/zeo-auto-logo.svg" class="img-responsive" alt="zeo-auto-logo"></a></div>
+    <div class="col-md-4 offset-4 hidden-xs"></div>
+    <div class="col-md-4 col-xs-5"><div class="btn btn-default login-btn pull-right">LOGIN</div></div>
+
+
+</div>
+
+
+
+
+
+  <div class="container hero-content">
+    <div class="col-md-6 hero-content-hed1-pd"> <span class="hed4">
+      <h4>Manage your fleet on the go!</h4>
+      </span>
+      <h1 class="hed1">Track, analyze and improve<br>
+        your fleet operations</h1>
+      <span class="hed4">
+      <h4>Operating system for commercial vehicles.</h4>
+      </span>
+      <div class="gp-play"> <span class="hed6">
+        <h6>Get It from:</h6>
+        </span> <a href="https://play.google.com/store/apps/details?id=com.zeoauto&hl=en" target="_new"><img src="images/google-play.svg" alt="google-play"></a> </div>
+    </div>
+    <div class="hidden-xs col-md-6 pad-zero"><img src="images/ds-mock.svg" class="img-responsive" alt="dashboard"  ></div>
+  </div>
+</section>
+
+<!-- header section End --> 
+
+<!-- values of zeo auto section starts -->
+
+<section class="values-sec">
+  <div class="container ">
+    <div class="col-md-3 col-xs-6">
+      <h2 class="hed2">30k+</h2>
+      <h5 class="hed5">Vehicles</h5>
+    </div>
+    <div class="col-md-3 col-xs-6">
+      <h2 class="hed2">6 Million</h2>
+      <h5 class="hed5">Trips</h5>
+    </div>
+    <div class="col-md-3 col-xs-6">
+      <h2 class="hed2">17&#37;</h2>
+      <h5 class="hed5">Saving on Fuel</h5>
+    </div>
+    <div class="col-md-3 col-xs-6">
+      <h2 class="hed2">200+</h2>
+      <h5 class="hed5">Parameters tracked</h5>
+    </div>
+  </div>
+</section>
+
+<!-- values of zeo auto section ends --> 
+<!-- why zeo auto section stars -->
+
+<section class="why-zeo">
+  <div class="container" >
+    <h2 class="hed2-why">Why Zeo Auto</h2>
+    <div class="row">
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Device-Agnostic.svg" alt="Device-Agnostic" class="block-left">
+          <h4 class="hed4-why">Device Agnostic</h4>
+          <p>- Choose device closer to your pricepoint<br>
+            - compatible with 80% devices in Indian market. </p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Multilevel-Tracking.svg" alt="Multilevel-Tracking" class="block-left">
+          <h4 class="hed4-why">Multilevel Tracking</h4>
+          <p>Members only track vehicles assigned to them</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Better-Visibility.svg" alt="Better-Visibility" class="block-left">
+          <h4 class="hed4-why">Better Visibility</h4>
+          <p>Realtime location and vehicle health information</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Deep-Analytics.svg" alt="Deep-Analytics" class="block-left">
+          <h4 class="hed4-why">Deep Analytics</h4>
+          <p>Custom reports for each vehicle and driver. Ability to track over 200+ parameters</p>
+        </div>
+      </div>
+    </div>
+    <div class="row pad-40">
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Reduce-Expenses.svg" alt="Reduce-Expenses" class="block-left">
+          <h4 class="hed4-why">Reduce Expenses</h4>
+          <p>Better tracking and assignment. 25% reduction for average fleet owner.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Open-API.svg" alt="Open-API" class="block-left">
+          <h4 class="hed4-why">Open API</h4>
+          <p>Integrate easily with your CRM, order management and route optimization software to enhance offerings.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Realtime-Alerts.svg" alt="Realtime-Alerts" class="block-left">
+          <h4 class="hed4-why">Realtime Alerts</h4>
+          <p>Customised alerts for overspeeding, route deviation, driver and vehicle ranking, tolls and idle time.</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="thumbnail"> <img src="images/Driver-Profile.svg" alt="Driver-Profile" class="block-left">
+          <h4 class="hed4-why">Driver Profile</h4>
+          <p>Assign drivers easily, track driving behaviour and select your best driver.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- why zeo auto section ends --> 
+
+<!-- Zeo Auto Features section start here -->
+
+<section class="auto-featuers">
+  <div class="container ">
+    <h2 class="hed2-opm">Zeo Auto Features</h2>
+    <div class="col-md-2"></div>
+    <div class="col-md-4 hidden-sm hidden-xs">
+      <img src="images/mobile-mock.svg" class="img-responsive" id="dashboard-img" alt="mobile-mock" >
+      
+
+    </div>
+
+
+    <div class="col-md-4 acc">
+      <div class="row">
+        <div class="accordion-option"> <a href="javascript:void(0)" class="toggle-accordion active" accordion-id="#accordion"></a> </div>
+        <div class="clearfix"></div>
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+              <h4 class="panel-title"> <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> Dashboard </a> </h4>
+            </div>
+            <div id="collapseOne" class="panel-collapse collaps in" role="tabpanel" aria-labelledby="headingOne">
+              <div class="panel-body"> - Consolidated view of the whole fleet<br>
+                - Easily track vehicles which are running/stopped/ Idle<br>
+                - Single click alert tracking </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading live" role="tab" id="headingTwo">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo"> Live Vehicle Tracking </a> </h4>
+            </div>
+            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+              <div class="panel-body"> - Consolidated Status of each fleet<br>
+                - Live Location of each vehicle provided<br>
+                - Analysis of routes/ traffic/ Idle time<br>
+                - Geofencing Alerts for vehicle entering/exiting<br>
+                - Share realtime location with any partner<br>
+                - Live Odometer and speed reading<br>
+                - Health data – coolant temp. engine temp from additional sensors<br>
+                - Immobilize vehicle remotely in case of theft </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingThree">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree"> Past Trip Replay </a> </h4>
+            </div>
+            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div class="panel-body"> - See Historical Trip Data<br>
+                - Select Data and time for Vehicle Location<br>
+                - Analyze whole trip - Playing up to 6x speed<br>
+                - Get Speed/ Distance and Address parameters<br>
+                - Share Realtime location with any partner<br>
+                - Customizable reports for idle time/ over speeding </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFour">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour"> Summary Reports </a> </h4>
+            </div>
+            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+              <div class="panel-body"> - Daily Trip and Distance Reports<br>
+                - Customizable to see data over a period of time<br>
+                - Amount of time vehicle is running/idle or stopped<br>
+                - View Alerts – Over speeding / Hard breaking/ Entering/ exiting geo fenced area/ breakdown<br>
+                - View total distance and average speed for given period<br>
+                - Download the detailed report in csv/ Pdf<br>
+                - Connect with your CRM/ order management system via APIs </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFive">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive"> Trip and Toll Reports </a> </h4>
+            </div>
+            <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+              <div class="panel-body"> - Plan Trip expenses for long haul/ intercity deliveries<br>
+                - Select Starting & End points and vehicle type<br>
+                - Get total time taken, total distance covered and
+                Toll Expenses<br>
+                - Fuel Mileage and Fuel Cost can be added to get total trip expenses<br>
+                - Get alerts whenever the vehicle crosses a particular toll<br>
+                - Get the best route between starting and end points<br>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingsix">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsesix" aria-expanded="true" aria-controls="collapsesix"> Driver Addition and Assignment </a> </h4>
+            </div>
+            <div id="collapsesix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingsix">
+              <div class="panel-body"> - Keep all the Driver documents in 1 place stored safely on cloud<br>
+                - Verify the documents via APIs provided<br>
+                - Assign the drivers to vehicles seamlessly to
+                record driving behavior<br>
+                - Contact the driver from within the app via phone number addition<br>
+                - Tracking driving behavior and reports to select your best drivers </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingseven">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseseven" aria-expanded="true" aria-controls="collapseseven"> Finance Module </a> </h4>
+            </div>
+            <div id="collapseseven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingseven">
+              <div class="panel-body"> - Get overview of all your finances, control leakages and handle petty cash<br>
+                - Assign total trip amount, advance provided and expenses<br>
+                - Keep payment & Billing information for records<br>
+                - Granular level information to see performance
+                and utilization of each vehicle<br>
+                - Seamlessly integrated with Toll and Trip Expenses<br>
+                - Integrate with order management system via APIs to track returns and calculate immediately </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingeight">
+              <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseeight" aria-expanded="true" aria-controls="collapseeight"> Load Posting Module </a> </h4>
+            </div>
+            <div id="collapseeight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingeight">
+              <div class="panel-body"> - For Companies working with 3rd party fleet owners<br>
+                - Post and assign loads from the platform itself<br>
+                - Specify the start and end points, date and truck
+                detail<br>
+                - Easily integrate with order management and CRM via APIs, post through own system<br>
+                - For truck owner, details get filled in finance module to seamlessly plan trip<br>
+                - Track vehicle utilization via trips and orders </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+</section>
+
+<!-- Zeo Auto Features section ends here --> 
+
+
+
+
+
+<section class="obgp">
+  
+
+          <div class="container">
+
+              <div class="col-md-1 offset-1"></div>
+              <div class="col-md-10 obdgps ">
+
+
+                  <div class="thumbnail">
+
+                  
+                  <h4 class="hed4-why">Reduce Expenses</h4>
+                  <h2 class="hed2-why">50+ OBD & GPS devices</h2>
+
+
+                    
+
+                    </div>
+              </div>
+                </div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 3rd party fleets section stars -->
+
+<section class="third-party">
+  <div class="container" >
+    <h2 class="hed2-why">3rd Party Fleets</h2>
+    <div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/Port-Existing-Device.svg" alt="Port-Existing-Device" class="block-left">
+          <h4 class="hed4-why">Port Existing Device</h4>
+          <p>No additional expense for partner</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/Pre-Emptive-Alerts.svg" alt="Pre-Emptive-Alerts" class="block-left">
+          <h4 class="hed4-why">Pre Emptive Alerts</h4>
+          <p>Get alerts while vehicle is in operation. Take early action and inform clients to increase NPS and client satisfaction.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/API-Integration.svg" alt="API Integration" class="block-left">
+          <h4 class="hed4-why">API Integration</h4>
+          <p>S2S integration with your system via open APIs</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/Assign-Orders-Directly.svg" alt="Assign orders Directly" class="block-left">
+          <h4 class="hed4-why">Assign Orders Directly</h4>
+          <p>Directly post the load to the fleet owner via APIs. Get visibility over the route.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row pad-40">
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/fleet-Multilevel-Tracking.svg" alt="Multilevel-Tracking" class="block-left">
+          <h4 class="hed4-why">Multilevel Tracking</h4>
+          <p>Multilogin facility - assign visibility in your team according to span of control and get customised MIS.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/Operation-Assignment.svg" alt="Operation-Assignment" class="block-left">
+          <h4 class="hed4-why">Operation Assignment</h4>
+          <p>Fleet owner has ability to assign/change vehicles on click of a button. Only see vehicles assigned to you.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/247-Visibility.svg" alt="24x7-Visibility" class="block-left">
+          <h4 class="hed4-why">24 X 7 Visibility</h4>
+          <p>Data cached in low connectivity zones leading to no dark spots in analysis. Track vehicle even when driver switches off his phone.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail"> <img src="images/Customized-Analytics.svg" alt="Customized-Analytics" class="block-left">
+          <h4 class="hed4-why">Customized Analytics</h4>
+          <p>Rank Vendors/ trucks nd drivers basis utilization, fulfillment, driving pattern and operating cost per mile.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 3rd party fleets section ends --> 
+
+<!--  operation managment section starts here -->
+
+<section class="opm">
+  <div class="container">
+    <div class="row">
+      <h2 class="hed2-opm">Operations Management Platform in your palm</h2>
+      <p>Building community bringing all players together for benefit of fleet owners, drivers and Fleet users</p>
+      <div class="text-center"> <img src="images/Operations_Management.svg" alt="Operations_Management" class="img-responsive" /></div>
+    </div>
+    <div class="opm-info">
+      <div class="col-md-1"></div>
+      <div class="col-md-6">
+        <div class="thumbnail">
+          <h6>Owner</h6>
+          <p>- Client communication and ETA<br>
+            - Speed, mileage and geo fencing.<br>
+            - Idle time and overspeeding alerts.<br>
+            - Finance module<br>
+            - Load posting module<br>
+            - Toll calculator </p>
+          <h6 class="pd-tp">Driver</h6>
+          <p>- Driver assignment and profiling<br>
+            - Live tracking<br>
+            - Historical performance and alerts </p>
+          <h6 class="pd-tp">Operations</h6>
+          <p>- Multi login functionality<br>
+            - Customised MIS<br>
+            - Early alerts for ETA increase, route 
+            deviation and over speeding </p>
+        </div>
+      </div>
+      <div class="col-md-4 api-list">
+        <div class="thumbnail">
+          <h6>API</h6>
+          <ul>
+            <li><a href="#"><img src="images/Trackingdb.svg" alt="Trackingdb">Tracking Db</a></li>
+            <li><a href="#"><img src="images/order-management.svg" alt="order-management">Order Management</a></li>
+            <li><a href="#"><img src="images/route-optimisation.svg" alt="route-optimisation">Route Optimisation</a></li>
+            <li><a href="#"><img src="images/mis-alerts.svg" alt="mis-alerts">MIS & Alerts</a></li>
+            <li><a href="#"><img src="images/Multi-login.svg" alt="Multi-login">Multi Login</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </div>
+</section>
+
+<!--  operation managment section ends here --> 
+
+<!-- footer section starts here -->
+
+<section class="footer">
+  <div class="container">
+    <div class="col-md-4"><img src="images/footer-logo.svg" class="img-responsive" alt="Zeo Auto"></div>
+    <div class="col-md-4">
+      <h6>Contact Us</h6>
+      <ul>
+        <li><a href="#">+91 9372780655</a></li>
+        <li><a href="#">support@zeoauto.com</a></li>
+      </ul>
+    </div>
+    <div class="col-md-4">
+      <h6>Get It on</h6>
+      <a href="https://play.google.com/store/apps/details?id=com.zeoauto&hl=en" target="_new"><img src="images/google-play.svg" class="img-responsive" alt="google play"></a></div>
+  </div>
+</section>
+
+<!-- footer section starts here --> 
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+
+
+
+
+
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
